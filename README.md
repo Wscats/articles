@@ -26,5 +26,5 @@ _These share data are from my usual work and learning，hoping to help you，If 
 |[CSDN页面内JS跳转脚本](https://github.com/Wscats/Good-text-Share/issues/9)|[CSDN博客隐藏配置](https://github.com/Wscats/Good-text-Share/issues/8)|
 |[百度设置小度机器人出现](https://github.com/Wscats/Good-text-Share/issues/7)|[Angular的run方法巧妙运用](https://github.com/Wscats/Good-text-Share/issues/6)|
 |[Angular处理Html转义问题](https://github.com/Wscats/Good-text-Share/issues/5)|[Javascript的setTimeout详细用例](https://github.com/Wscats/Good-text-Share/issues/4)|
-|[妙用Javascript运算符“||”和“&&”](https://github.com/Wscats/Good-text-Share/issues/3)|[前端冷知识，妙用浏览器地址栏](https://github.com/Wscats/Good-text-Share/issues/2)|
+|[妙用Javascript运算符](https://github.com/Wscats/Good-text-Share/issues/3)|[前端冷知识，妙用浏览器地址栏](https://github.com/Wscats/Good-text-Share/issues/2)|
 |[深入理解Javascript函数编程](https://github.com/Wscats/Good-text-Share/issues/1)|

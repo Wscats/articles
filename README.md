@@ -10,5 +10,9 @@ These share data are from my usual work and learning，hoping to help you，If y
 |[Javascript中的var self = this](https://github.com/Wscats/Good-text-Share/issues/52)|[微信公众号开发](https://github.com/Wscats/Good-text-Share/issues/50)|
 |[Javascript监听触摸事件](https://github.com/Wscats/Good-text-Share/issues/49)|[Cordova配置&&Ionic配置（WebApp混合开发环境）](https://github.com/Wscats/Good-text-Share/issues/48)|
 |[Mac小技巧](https://github.com/Wscats/Good-text-Share/issues/46)|[node技巧](https://github.com/Wscats/Good-text-Share/issues/44)|
-|[Mac小技巧](https://github.com/Wscats/Good-text-Share/issues/46)|[node技巧](https://github.com/Wscats/Good-text-Share/issues/44)|
-|[Mac小技巧](https://github.com/Wscats/Good-text-Share/issues/46)|[node技巧](https://github.com/Wscats/Good-text-Share/issues/44)|
+|[响应式布局 媒体查询](https://github.com/Wscats/Good-text-Share/issues/43)|[sessionstorage，localstorage和cookie](https://github.com/Wscats/Good-text-Share/issues/42)|
+|[CSS Flex布局](https://github.com/Wscats/Good-text-Share/issues/41)|[移动前端开发CSS3](https://github.com/Wscats/Good-text-Share/issues/38)|
+|[Angular的ng-style用法](https://github.com/Wscats/Good-text-Share/issues/35)|[CSS图片响应式布局](https://github.com/Wscats/Good-text-Share/issues/34)|
+|[IE8及以下按钮超链接无法跳转的问题](https://github.com/Wscats/Good-text-Share/issues/33)|[Javascript面向对象编程](https://github.com/Wscats/Good-text-Share/issues/32)|
+|[Atom技巧总结](https://github.com/Wscats/Good-text-Share/issues/30)|[Angular判断在那个浏览器下打开的服务](https://github.com/Wscats/Good-text-Share/issues/29)|
+|[Angular文字折叠展开组件的原理分析](https://github.com/Wscats/Good-text-Share/issues/28)|[Vim笔记](https://github.com/Wscats/Good-text-Share/issues/27)|

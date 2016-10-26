@@ -17,7 +17,7 @@ _These share data are from my usual work and learning，hoping to help you，If 
 |[Atom技巧总结](https://github.com/Wscats/Good-text-Share/issues/30)|[Angular判断在那个浏览器下打开的服务](https://github.com/Wscats/Good-text-Share/issues/29)|
 |[Angular文字折叠展开组件的原理分析](https://github.com/Wscats/Good-text-Share/issues/28)|[Vim笔记](https://github.com/Wscats/Good-text-Share/issues/27)|
 |[Angular源码解读publishExternalAPI函数](https://github.com/Wscats/Good-text-Share/issues/26)|[Angular源码解读setupModuleLoader函数](https://github.com/Wscats/Good-text-Share/issues/25)|
-|[Angular自定义service服务详解](https://github.com/Wscats/Good-text-Share/issues/24)|[Vim笔记](https://github.com/Wscats/Good-text-Share/issues/27)|
+|[Angular自定义service服务详解](https://github.com/Wscats/Good-text-Share/issues/24)|[Angular自定义判断上一页是否存在的服务](https://github.com/Wscats/Good-text-Share/issues/22)|
 |[Angular文字折叠展开组件的原理分析](https://github.com/Wscats/Good-text-Share/issues/28)|[Vim笔记](https://github.com/Wscats/Good-text-Share/issues/27)|
 |[Angular文字折叠展开组件的原理分析](https://github.com/Wscats/Good-text-Share/issues/28)|[Vim笔记](https://github.com/Wscats/Good-text-Share/issues/27)|
 |[Angular文字折叠展开组件的原理分析](https://github.com/Wscats/Good-text-Share/issues/28)|[Vim笔记](https://github.com/Wscats/Good-text-Share/issues/27)|

@@ -1,7 +1,7 @@
 # Good-text-Share
 :smiley_cat:整理这几年我在工作中的一些技术分享和学习资料
 
-These share data are from my usual work and learning，hoping to help you，If you like you can star
+_These share data are from my usual work and learning，hoping to help you，If you like you can star_
 
 | title | article |
 | ------------- |:-------------:| :-------------:| :-------------:| -----:|
@@ -15,4 +15,10 @@ These share data are from my usual work and learning，hoping to help you，If y
 |[Angular的ng-style用法](https://github.com/Wscats/Good-text-Share/issues/35)|[CSS图片响应式布局](https://github.com/Wscats/Good-text-Share/issues/34)|
 |[IE8及以下按钮超链接无法跳转的问题](https://github.com/Wscats/Good-text-Share/issues/33)|[Javascript面向对象编程](https://github.com/Wscats/Good-text-Share/issues/32)|
 |[Atom技巧总结](https://github.com/Wscats/Good-text-Share/issues/30)|[Angular判断在那个浏览器下打开的服务](https://github.com/Wscats/Good-text-Share/issues/29)|
+|[Angular文字折叠展开组件的原理分析](https://github.com/Wscats/Good-text-Share/issues/28)|[Vim笔记](https://github.com/Wscats/Good-text-Share/issues/27)|
+|[Angular源码解读publishExternalAPI函数](https://github.com/Wscats/Good-text-Share/issues/26)|[Angular源码解读setupModuleLoader函数](https://github.com/Wscats/Good-text-Share/issues/25)|
+|[Angular自定义service服务详解](https://github.com/Wscats/Good-text-Share/issues/24)|[Vim笔记](https://github.com/Wscats/Good-text-Share/issues/27)|
+|[Angular文字折叠展开组件的原理分析](https://github.com/Wscats/Good-text-Share/issues/28)|[Vim笔记](https://github.com/Wscats/Good-text-Share/issues/27)|
+|[Angular文字折叠展开组件的原理分析](https://github.com/Wscats/Good-text-Share/issues/28)|[Vim笔记](https://github.com/Wscats/Good-text-Share/issues/27)|
+|[Angular文字折叠展开组件的原理分析](https://github.com/Wscats/Good-text-Share/issues/28)|[Vim笔记](https://github.com/Wscats/Good-text-Share/issues/27)|
 |[Angular文字折叠展开组件的原理分析](https://github.com/Wscats/Good-text-Share/issues/28)|[Vim笔记](https://github.com/Wscats/Good-text-Share/issues/27)|

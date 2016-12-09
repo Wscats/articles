@@ -31,5 +31,5 @@ _These share data are from my usual work and learning，hoping to help you，If 
 ## 参考文档
 | title | article |
 | ------------- |:-------------:| :-------------:| :-------------:| -----:|
-|[前端知识结构https://github.com/JacksonTian/fks|[Web前端开发大系概览](https://github.com/unruledboy/WebFrontEndStack|
+|[前端知识结构https://github.com/JacksonTian/fks|[Web前端开发大系概览](https://github.com/unruledboy/WebFrontEndStack)|
 |[免费的编程中文书籍索引(https://github.com/justjavac/free-programming-books-zh_CN)|[前端书籍](https://github.com/dypsilon/frontend-dev-bookmarks)|

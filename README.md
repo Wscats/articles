@@ -34,7 +34,6 @@ _These share data are from my usual work and learning，hoping to help you，If 
 |[Angular的fromJson与toJson方法](https://github.com/Wscats/Good-text-Share/issues/17)|[Javascript获取经纬度，关于调用百度API的问题](https://github.com/Wscats/Good-text-Share/issues/16)|
 |[Angular用ng-repeat生成表单并绑定ng-click时的一个细节](https://github.com/Wscats/Good-text-Share/issues/12)||
 |[JS日期对比](https://github.com/Wscats/Good-text-Share/issues/11)|[JSONP参考文章](https://github.com/Wscats/Good-text-Share/issues/10)|
-
 |[Angular的run方法巧妙运用](https://github.com/Wscats/Good-text-Share/issues/6)||
 |[Angular处理Html转义问题](https://github.com/Wscats/Good-text-Share/issues/5)|[Javascript的setTimeout详细用例](https://github.com/Wscats/Good-text-Share/issues/4)|
 
@@ -48,7 +47,7 @@ _These share data are from my usual work and learning，hoping to help you，If 
 | title | article |
 | ------------- |:-------------:| :-------------:| :-------------:| -----:|
 |[关于Pornographic website的一些前端分析](https://github.com/Wscats/node-demo/issues/4)|[微信公众号开发](https://github.com/Wscats/Good-text-Share/issues/50)
-|Atom技巧总结](https://github.com/Wscats/Good-text-Share/issues/30)||
+|[Atom技巧总结](https://github.com/Wscats/Good-text-Share/issues/30)||
 |[CSDN页面内JS跳转脚本](https://github.com/Wscats/Good-text-Share/issues/9)|[CSDN博客隐藏配置](https://github.com/Wscats/Good-text-Share/issues/8)|
 |[百度设置小度机器人出现](https://github.com/Wscats/Good-text-Share/issues/7)|[前端冷知识，妙用浏览器地址栏](https://github.com/Wscats/Good-text-Share/issues/2)|
 |[Git操作](https://github.com/Wscats/Good-text-Share/issues/20)|[IE8及以下按钮超链接无法跳转的问题](https://github.com/Wscats/Good-text-Share/issues/33)|

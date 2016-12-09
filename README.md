@@ -19,7 +19,7 @@ _These share data are from my usual work and learning，hoping to help you，If 
 |[JavaScript Promise迷你书（中文版）](http://liubin.github.io/promises-book)|[阮一峰 Javascript](http://javascript.ruanyifeng.com)|
 
 ## ES
-| Reference documentation | Reference documentation |
+| Reference | Reference |
 | ------------- |:-------------:| :-------------:| :-------------:| -----:|
 |[exploring-es6翻译](http://es6-org.github.io/exploring-es6/)|[阮一峰 es6](http://es6.ruanyifeng.com)|
 |[ECMA-262，第 5 版](http://yanhaijing.com/es5)|[es5](http://es5.github.io)|

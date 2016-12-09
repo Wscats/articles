@@ -12,6 +12,8 @@ _These share data are from my usual work and learning，hoping to help you，If 
 |[妙用Javascript运算符](https://github.com/Wscats/Good-text-Share/issues/3)|[深入理解Javascript函数编程](https://github.com/Wscats/Good-text-Share/issues/1)|
 |[Javascript的setTimeout详细用例](https://github.com/Wscats/Good-text-Share/issues/4)|[sessionstorage，localstorage和cookie](https://github.com/Wscats/Good-text-Share/issues/42)|
 |[JS日期对比](https://github.com/Wscats/Good-text-Share/issues/11)|[JSONP参考文章](https://github.com/Wscats/Good-text-Share/issues/10)|
+|[Javascript的createElement](https://wscats.github.io/angular-demo/createElement.html)|[Javascript的createDocumentFragment](https://wscats.github.io/angular-demo/createDocumentFragment.html)|
+|[sessionStorage和localStorage](https://wscats.github.io/angular-demo/sessionStoragelocalStorage.html)|[像素帧动画](https://wscats.github.io/angular-demo/像素动画.html)|
 | article | article |
 |[JavaScript中的this陷阱的最全收集--没有之一](https://segmentfault.com/a/1190000002640298)|[JS函数式编程指南](https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/ch1.html)|
 |[JavaScript Promise迷你书（中文版）](http://liubin.github.io/promises-book)|[阮一峰 Javascript](http://javascript.ruanyifeng.com)|
@@ -27,6 +29,7 @@ _These share data are from my usual work and learning，hoping to help you，If 
 | ------------- |:-------------:| :-------------:| :-------------:| -----:|
 |[CSS Flex布局](https://github.com/Wscats/Good-text-Share/issues/41)|[移动前端开发CSS3](https://github.com/Wscats/Good-text-Share/issues/38)|
 |[响应式布局 媒体查询](https://github.com/Wscats/Good-text-Share/issues/43)|[CSS图片响应式布局](https://github.com/Wscats/Good-text-Share/issues/34)|
+|[lessDemo的less文件](https://wscats.github.io/angular-demo/stylesheets/styles.less)||
 
 # Angular
 ## Angular文档
@@ -101,16 +104,12 @@ _These share data are from my usual work and learning，hoping to help you，If 
 | Other ||
 | ------------- |:-------------:| :-------------:| :-------------:| -----:|
 |[Angular中使用iframe](https://wscats.github.io/angular-demo/iframesdemo.html)|[Angular三级联动(1)](https://wscats.github.io/angular-demo/%E4%B8%89%E7%BA%A7%E8%81%94%E5%8A%A8.html)|
-|[Angular中使用ng-switch](https://wscats.github.io/angular-demo/ngSwitch.html)||
+|[Angular中使用ng-switch](https://wscats.github.io/angular-demo/ngSwitch.html)|[百度定位DEMO](https://wscats.github.io/angular-demo/百度地图定位DEMO.html)|
 |[Angular三级联动(2)](https://wscats.github.io/angular-demo/三级联动改进.html)|[Angular事件监听](https://wscats.github.io/angular-demo/事件监听.html)|
-|[百度定位DEMO](https://wscats.github.io/angular-demo/百度地图定位DEMO.html)|[sessionStorage和localStorage](https://wscats.github.io/angular-demo/sessionStoragelocalStorage.html)|
 |[jquery模拟ng-repeat](https://wscats.github.io/angular-demo/jquery模拟ng-repeat.html)|[lessDemo](https://wscats.github.io/angular-demo/lessDemo.html)|
-|[lessDemo的less文件](https://wscats.github.io/angular-demo/stylesheets/styles.less)|[像素帧动画](https://wscats.github.io/angular-demo/像素动画.html)|
 |[Angular自定义cookie服务和ngCookie的使用](https://wscats.github.io/angular-demo/ngCookie.html)|[图灵机器人](https://wscats.github.io/angular-demo/图灵机器人.html)|
-|[Javascript的createElement](https://wscats.github.io/angular-demo/createElement.html)|[Javascript的createDocumentFragment](https://wscats.github.io/angular-demo/createDocumentFragment.html)|
 |[Angular利用angular.module()实现模块化](https://wscats.github.io/angular-demo/angular模块化.html)|[Angular的form表单验证](https://wscats.github.io/angular-demo/form表单验证.html)|
-|[Angular的ng-repeat嵌套](https://wscats.github.io/angular-demo/ng-repeat嵌套.html)|[NodeJs静态服务器](https://github.com/Wscats/angular-demo/tree/gh-pages/diyNodeServer)|
-|[Angular利用angular.module()实现模块化2](https://wscats.github.io/angular-demo/angular模块化2.html)||
+|[Angular的ng-repeat嵌套](https://wscats.github.io/angular-demo/ng-repeat嵌套.html)|[Angular利用angular.module()实现模块化2](https://wscats.github.io/angular-demo/angular模块化2.html)|
 
 
 ## PHP
@@ -121,7 +120,7 @@ _These share data are from my usual work and learning，hoping to help you，If 
 ## Node
 | title | article |
 | ------------- |:-------------:| :-------------:| :-------------:| -----:|
-|[node技巧](https://github.com/Wscats/Good-text-Share/issues/44)||
+|[node技巧](https://github.com/Wscats/Good-text-Share/issues/44)|[NodeJs静态服务器](https://github.com/Wscats/angular-demo/tree/gh-pages/diyNodeServer)|
 
 ## 其他
 | title | article |

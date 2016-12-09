@@ -33,4 +33,4 @@ _These share data are from my usual work and learning，hoping to help you，If 
 | ------------- |:-------------:| :-------------:| :-------------:| -----:|
 |[前端知识结构](https://github.com/JacksonTian/fks)|[Web前端开发大系概览](https://github.com/unruledboy/WebFrontEndStack)|
 |[免费的编程中文书籍索](https://github.com/justjavac/free-programming-books-zh_CN)|[前端书籍](https://github.com/dypsilon/frontend-dev-bookmarks)|
-|[前端免费书籍大全](https://github.com/vhf/free-programming-books)||
+|[前端免费书籍大全](https://github.com/vhf/free-programming-books)|[重新介绍JavaScript（JS教程）](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/A_re-introduction_to_JavaScript)|

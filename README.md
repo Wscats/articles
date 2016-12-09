@@ -48,9 +48,7 @@ _These share data are from my usual work and learning，hoping to help you，If 
 |[表单认证](https://github.com/Wscats/angular-demo/issues/13)|[$broadcast,$emit and $on](https://github.com/Wscats/angular-demo/issues/11)|
 |[自定义过滤器](https://github.com/Wscats/angular-demo/issues/9)|[自定义手势指令ng-touch](https://github.com/Wscats/angular-demo/issues/8)|
 |[ng-animate](https://github.com/Wscats/angular-demo/issues/7)|[单页面应用的技术点](https://github.com/Wscats/angular-demo/issues/3)|
-
-## AppDemo
-| Guess you like ||
+| Guess you like |AppDemo|
 | ------------- |:-------------:| :-------------:| :-------------:| -----:|
 |[Angular商城Demo](https://wscats.github.io/angular-demo/spa/mobie-b2bdemo1/index.html)|[Angular的Cnode社区](https://wscats.github.io/angular-demo/spa/CNode/index.html)|
 |[AngularStovepipe](https://wscats.github.io/angular-demo/spa/Stovepipe/index.html)|[Angular的新闻客户端](https://wscats.github.io/angular-demo/spa/TT/index.html)|

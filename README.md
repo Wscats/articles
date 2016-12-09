@@ -3,7 +3,7 @@
 _These share data are from my usual work and learning，hoping to help you，If you like you can star_
 
 ## Javascript
-| title | article |
+| article | article |
 | ------------- |:-------------:| :-------------:| :-------------:| -----:|
 |[Javascript深浅拷贝](https://github.com/Wscats/Good-text-Share/issues/57)|[Javascript中的apply和call继承](https://github.com/Wscats/Good-text-Share/issues/56)|
 |[Javascript的jsonp原理](https://github.com/Wscats/Good-text-Share/issues/55)|[Javascript监听触摸事件](https://github.com/Wscats/Good-text-Share/issues/49)|
@@ -12,16 +12,25 @@ _These share data are from my usual work and learning，hoping to help you，If 
 |[妙用Javascript运算符](https://github.com/Wscats/Good-text-Share/issues/3)|[深入理解Javascript函数编程](https://github.com/Wscats/Good-text-Share/issues/1)|
 |[Javascript的setTimeout详细用例](https://github.com/Wscats/Good-text-Share/issues/4)|[sessionstorage，localstorage和cookie](https://github.com/Wscats/Good-text-Share/issues/42)|
 |[JS日期对比](https://github.com/Wscats/Good-text-Share/issues/11)|[JSONP参考文章](https://github.com/Wscats/Good-text-Share/issues/10)|
+| article | article |
+|[JavaScript中的this陷阱的最全收集--没有之一](https://segmentfault.com/a/1190000002640298)|[JS函数式编程指南](https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/ch1.html)|
+|[JavaScript Promise迷你书（中文版）](http://liubin.github.io/promises-book)|[阮一峰 Javascript](http://javascript.ruanyifeng.com)|
+
+## ES
+| article | article |
+| ------------- |:-------------:| :-------------:| :-------------:| -----:|
+|[exploring-es6翻译](http://es6-org.github.io/exploring-es6/)|[阮一峰 es6](http://es6.ruanyifeng.com)|
+|[ECMA-262，第 5 版](http://yanhaijing.com/es5)|[es5](http://es5.github.io)|
 
 ## CSS
-| title | article |
+| article | article |
 | ------------- |:-------------:| :-------------:| :-------------:| -----:|
 |[CSS Flex布局](https://github.com/Wscats/Good-text-Share/issues/41)|[移动前端开发CSS3](https://github.com/Wscats/Good-text-Share/issues/38)|
 |[响应式布局 媒体查询](https://github.com/Wscats/Good-text-Share/issues/43)|[CSS图片响应式布局](https://github.com/Wscats/Good-text-Share/issues/34)|
 
 # Angular
-## Angular
-| title | article |
+## Angular文档
+| article | article |
 | ------------- |:-------------:| :-------------:| :-------------:| -----:|
 |[Angular源码解读publishExternalAPI函数](https://github.com/Wscats/Good-text-Share/issues/26)|[Angular源码解读setupModuleLoader函数](https://github.com/Wscats/Good-text-Share/issues/25)|
 |[Angular的ng-style用法](https://github.com/Wscats/Good-text-Share/issues/35)|[Angular判断在那个浏览器下打开的服务](https://github.com/Wscats/Good-text-Share/issues/29)|
@@ -30,6 +39,12 @@ _These share data are from my usual work and learning，hoping to help you，If 
 |[Angular操作cookies方法](https://github.com/Wscats/Good-text-Share/issues/19)|[Angular打印错误的minErr函数](https://github.com/Wscats/Good-text-Share/issues/18)|
 |[Angular的fromJson与toJson方法](https://github.com/Wscats/Good-text-Share/issues/17)|[Angular用ng-repeat生成表单并绑定ng-click时的一个细节](https://github.com/Wscats/Good-text-Share/issues/12)|
 |[Angular的run方法巧妙运用](https://github.com/Wscats/Good-text-Share/issues/6)|[Angular处理Html转义问题](https://github.com/Wscats/Good-text-Share/issues/5)|
+|[ng-repeat绑定事件和嵌套](ng-repeat绑定事件和嵌套)|[Angular的post请求后台接受不了数据的解决方法](https://github.com/Wscats/angular-demo/issues/4)|
+|[ionic总结](https://github.com/Wscats/angular-demo/issues/19)|[ui-route和ng-route](https://github.com/Wscats/angular-demo/issues/17)|
+|[ng-options&&ng-switch](https://github.com/Wscats/angular-demo/issues/15)|[directive组件作用域](https://github.com/Wscats/angular-demo/issues/14)|
+|[表单认证](https://github.com/Wscats/angular-demo/issues/13)|[$broadcast,$emit and $on](https://github.com/Wscats/angular-demo/issues/11)|
+|[自定义过滤器](https://github.com/Wscats/angular-demo/issues/9)|[自定义手势指令ng-touch](https://github.com/Wscats/angular-demo/issues/8)|
+|[ng-animate](https://github.com/Wscats/angular-demo/issues/7)|[单页面应用的技术点](https://github.com/Wscats/angular-demo/issues/3)|
 
 ## AppDemo
 | Guess you like ||
@@ -40,16 +55,6 @@ _These share data are from my usual work and learning，hoping to help you，If 
 |[Angular内联编辑器](https://wscats.github.io/angular-demo/angularjs5examples/inline-editor/index.html)|[Angular即时搜索](https://wscats.github.io/angular-demo/angularjs5examples/instant-search/index.html)|
 |[Angular导航菜单](https://wscats.github.io/angular-demo/angularjs5examples/navigation-menu/index.html)|[Angular订单表单](https://wscats.github.io/angular-demo/angularjs5examples/order-form/index.html)|
 |[Angular切换网格](https://wscats.github.io/angular-demo/angularjs5examples/switchable-grid/index.html)|[Angular新闻＋WEUI DEMO](https://wscats.github.io/angular-demo/spa/news/index.html) [源码](https://github.com/Wscats/angular-demo/tree/gh-pages/spa/NodeServerAndApi-Weui-News)|
-
-## Angular文档
-| Article ||
-| ------------- |:-------------:| :-------------:| :-------------:| -----:|
-|[ng-repeat绑定事件和嵌套](ng-repeat绑定事件和嵌套)|[Angular的post请求后台接受不了数据的解决方法](https://github.com/Wscats/angular-demo/issues/4)|
-|[ionic总结](https://github.com/Wscats/angular-demo/issues/19)|[ui-route和ng-route](https://github.com/Wscats/angular-demo/issues/17)|
-|[ng-options&&ng-switch](https://github.com/Wscats/angular-demo/issues/15)|[directive组件作用域](https://github.com/Wscats/angular-demo/issues/14)|
-|[表单认证](https://github.com/Wscats/angular-demo/issues/13)|[$broadcast,$emit and $on](https://github.com/Wscats/angular-demo/issues/11)|
-|[自定义过滤器](https://github.com/Wscats/angular-demo/issues/9)|[自定义手势指令ng-touch](https://github.com/Wscats/angular-demo/issues/8)|
-|[ng-animate](https://github.com/Wscats/angular-demo/issues/7)|[单页面应用的技术点](https://github.com/Wscats/angular-demo/issues/3)|
 
 ## 控制器
 

@@ -1,4 +1,3 @@
-# Good-text-Share
 :smiley_cat:整理这几年我在工作中的一些技术分享和学习资料
 
 _These share data are from my usual work and learning，hoping to help you，If you like you can star_
@@ -32,4 +31,5 @@ _These share data are from my usual work and learning，hoping to help you，If 
 ## 参考文档
 | title | article |
 | ------------- |:-------------:| :-------------:| :-------------:| -----:|
-|[前端知识体系](http://www.cnblogs.com/sb19871023/p/3894452.html)|[前端知识结构](https://github.com/JacksonTian/fks)|
+|[前端知识结构https://github.com/JacksonTian/fks|[Web前端开发大系概览](https://github.com/unruledboy/WebFrontEndStack|
+|[免费的编程中文书籍索引(https://github.com/justjavac/free-programming-books-zh_CN)|[前端书籍](https://github.com/dypsilon/frontend-dev-bookmarks)|

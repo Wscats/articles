@@ -14,7 +14,7 @@ _These share data are from my usual work and learning，hoping to help you，If 
 |[JS日期对比](https://github.com/Wscats/Good-text-Share/issues/11)|[JSONP参考文章](https://github.com/Wscats/Good-text-Share/issues/10)|
 |[Javascript的createElement](https://wscats.github.io/angular-demo/createElement.html)|[Javascript的createDocumentFragment](https://wscats.github.io/angular-demo/createDocumentFragment.html)|
 |[sessionStorage和localStorage](https://wscats.github.io/angular-demo/sessionStoragelocalStorage.html)|[像素帧动画](https://wscats.github.io/angular-demo/像素动画.html)|
-| **Reference documentation** | **Reference documentation** |
+| **Reference** | **Reference** |
 |[JavaScript中的this陷阱的最全收集--没有之一](https://segmentfault.com/a/1190000002640298)|[JS函数式编程指南](https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/ch1.html)|
 |[JavaScript Promise迷你书（中文版）](http://liubin.github.io/promises-book)|[阮一峰 Javascript](http://javascript.ruanyifeng.com)|
 
@@ -30,7 +30,7 @@ _These share data are from my usual work and learning，hoping to help you，If 
 |[CSS Flex布局](https://github.com/Wscats/Good-text-Share/issues/41)|[移动前端开发CSS3](https://github.com/Wscats/Good-text-Share/issues/38)|
 |[响应式布局 媒体查询](https://github.com/Wscats/Good-text-Share/issues/43)|[CSS图片响应式布局](https://github.com/Wscats/Good-text-Share/issues/34)|
 |[lessDemo的less文件](https://wscats.github.io/angular-demo/stylesheets/styles.less)||
-| **Reference documentation** | **Reference documentation** |
+| **Reference** | **Reference** |
 |[CSS 语法参考](http://tympanus.net/codrops/css_reference)|[CSS3动画手册](http://isux.tencent.com/css3/index.html)|
 |[腾讯css3动画制作工具](http://isux.tencent.com/css3/tools.html)|[animate.css](http://daneden.github.io/animate.css)|
 
@@ -83,7 +83,7 @@ _These share data are from my usual work and learning，hoping to help you，If 
 |[Angular的ng-repeat嵌套](https://wscats.github.io/angular-demo/ng-repeat嵌套.html)|[Angular利用angular.module()实现模块化2](https://wscats.github.io/angular-demo/angular模块化2.html)|
 | **PHP** | **PHP** |
 |[PHP CURL请求的小细节](https://github.com/Wscats/Good-text-Share/issues/53)||
-| **Reference documentation** | **Reference documentation** |
+| **Reference** | **Reference** |
 |[最流行的PHP 代码规范](https://segmentfault.com/a/1190000000443795)|[最流行的PHP 代码规范](https://github.com/hfcorriez/fig-standards/blob/zh_CN/%E6%8E%A5%E5%8F%97/PSR-2-coding-style-guide.md)|
 
 ## Node
@@ -92,7 +92,7 @@ _These share data are from my usual work and learning，hoping to help you，If 
 |[node技巧](https://github.com/Wscats/Good-text-Share/issues/44)|[NodeJs静态服务器](https://github.com/Wscats/angular-demo/tree/gh-pages/diyNodeServer)|
 
 ## Gulp 
-| Gulp | Reference documentation |
+| Gulp | Reference |
 | ------------- |:-------------:| :-------------:| :-------------:| -----:|
 |[Gulp官网](http://gulpjs.com)|[Gulp中文网](http://www.gulpjs.com.cn)|
 |[Gulp资料收集](https://github.com/Platform-CUF/use-gulp)|[Gulp：任务自动管理工具 - ruanyifeng](http://javascript.ruanyifeng.com/tool/gulp.html)|
@@ -110,7 +110,7 @@ _These share data are from my usual work and learning，hoping to help you，If 
 |[Vim笔记](https://github.com/Wscats/Good-text-Share/issues/27)|[Cordova配置&&Ionic配置（WebApp混合开发环境）](https://github.com/Wscats/Good-text-Share/issues/48)|
 
 ## React
-| React | Reference documentation |
+| React | Reference |
 | ------------- |:-------------:| :-------------:| :-------------:| -----:|
 |[react.js 官方网址](https://facebook.github.io/react/index.html)|[react.js 官方文档](https://facebook.github.io/react/docs/getting-started.html)|
 |[react.js material UI](http://material-ui.com/#)|[react.js TouchstoneJS UI](http://touchstonejs.io)|
@@ -141,7 +141,7 @@ _These share data are from my usual work and learning，hoping to help you，If 
 |[组件demo](https://wscats.github.io/vue-demo/组件.html)|||
 
 ## 参考文档
-| Reference documentation | Reference documentation |
+| Reference | Reference |
 | ------------- |:-------------:| :-------------:| :-------------:| -----:|
 |[前端知识结构](https://github.com/JacksonTian/fks)|[Web前端开发大系概览](https://github.com/unruledboy/WebFrontEndStack)|
 |[免费的编程中文书籍索](https://github.com/justjavac/free-programming-books-zh_CN)|[前端书籍](https://github.com/dypsilon/frontend-dev-bookmarks)|

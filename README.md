@@ -31,9 +31,8 @@ _These share data are from my usual work and learning，hoping to help you，If 
 |[响应式布局 媒体查询](https://github.com/Wscats/Good-text-Share/issues/43)|[CSS图片响应式布局](https://github.com/Wscats/Good-text-Share/issues/34)|
 |[lessDemo的less文件](https://wscats.github.io/angular-demo/stylesheets/styles.less)||
 
-# Angular
-## Angular文档
-| article | article |
+## Angular
+| article | Angular文档 |
 | ------------- |:-------------:| :-------------:| :-------------:| -----:|
 |[Angular源码解读publishExternalAPI函数](https://github.com/Wscats/Good-text-Share/issues/26)|[Angular源码解读setupModuleLoader函数](https://github.com/Wscats/Good-text-Share/issues/25)|
 |[Angular的ng-style用法](https://github.com/Wscats/Good-text-Share/issues/35)|[Angular判断在那个浏览器下打开的服务](https://github.com/Wscats/Good-text-Share/issues/29)|
@@ -48,54 +47,30 @@ _These share data are from my usual work and learning，hoping to help you，If 
 |[表单认证](https://github.com/Wscats/angular-demo/issues/13)|[$broadcast,$emit and $on](https://github.com/Wscats/angular-demo/issues/11)|
 |[自定义过滤器](https://github.com/Wscats/angular-demo/issues/9)|[自定义手势指令ng-touch](https://github.com/Wscats/angular-demo/issues/8)|
 |[ng-animate](https://github.com/Wscats/angular-demo/issues/7)|[单页面应用的技术点](https://github.com/Wscats/angular-demo/issues/3)|
-| Guess you like |AppDemo|
+| **Guess you like** |**AppDemo**|
 |[Angular商城Demo](https://wscats.github.io/angular-demo/spa/mobie-b2bdemo1/index.html)|[Angular的Cnode社区](https://wscats.github.io/angular-demo/spa/CNode/index.html)|
 |[AngularStovepipe](https://wscats.github.io/angular-demo/spa/Stovepipe/index.html)|[Angular的新闻客户端](https://wscats.github.io/angular-demo/spa/TT/index.html)|
 |[Angular商城Demo](https://wscats.github.io/angular-demo/spa/mobie-b2bdemo1/index.html)|[Angular的Cnode社区](https://wscats.github.io/angular-demo/spa/CNode/index.html)|
 |[Angular内联编辑器](https://wscats.github.io/angular-demo/angularjs5examples/inline-editor/index.html)|[Angular即时搜索](https://wscats.github.io/angular-demo/angularjs5examples/instant-search/index.html)|
 |[Angular导航菜单](https://wscats.github.io/angular-demo/angularjs5examples/navigation-menu/index.html)|[Angular订单表单](https://wscats.github.io/angular-demo/angularjs5examples/order-form/index.html)|
 |[Angular切换网格](https://wscats.github.io/angular-demo/angularjs5examples/switchable-grid/index.html)|[Angular新闻＋WEUI DEMO](https://wscats.github.io/angular-demo/spa/news/index.html) [源码](https://github.com/Wscats/angular-demo/tree/gh-pages/spa/NodeServerAndApi-Weui-News)|
-| Controller |控制器|
+| **Controller** |**控制器**|
 |[Angular控制器demo](https://wscats.github.io/angular-demo/view/student.html)||
-
-
-## 单页面应用
-| SPA DEMO |
-| ------------- |:-------------:| :-------------:| :-------------:| -----:|
-|[Angular+Weui单页面应用DEMO-每日笑话](https://wscats.github.io/angular-demo/weui每日笑话.html)|
-
-
-## 服务
-| Service ||
-| ------------- |:-------------:| :-------------:| :-------------:| -----:|
+| **SPA DEMO** |**单页面应用**|
+|[Angular+Weui单页面应用DEMO-每日笑话](https://wscats.github.io/angular-demo/weui每日笑话.html)||
+| **Service** |**服务**|
 |[Angular自定义服务的常用方法](https://github.com/Wscats/angular-demo/blob/gh-pages/%E5%B8%B8%E7%94%A8%E8%87%AA%E5%AE%9A%E4%B9%89%E6%9C%8D%E5%8A%A1%E6%96%B9%E6%B3%95.md)|[Angular部分服务demo](https://wscats.github.io/angular-demo/部分服务demo.html)|
 |[Angular自定义Canvas画图服务](https://wscats.github.io/angular-demo/Angular自定义Canvas画图服务.html)|[Angular自定义http服务 面向对象封装](https://wscats.github.io/angular-demo/自定义http服务.html)|
-
-## 组件与指令
-| Directive ||
-| ------------- |:-------------:| :-------------:| :-------------:| -----:|
+| **Directive** |**组件与指令**|
 |[Angular自定义手势指令](https://wscats.github.io/angular-demo/自定义手势事件.html)|[Angular自定义轮播图组件](https://wscats.github.io/angular-demo/自定义directive轮播图.html)|
 |[Angular自定义下拉刷新组件1](https://wscats.github.io/angular-demo/下拉刷新.html)|[Angular自定义下拉刷新组件2](https://wscats.github.io/angular-demo/Angular自定义下拉刷新组件.html)|
-
-## 路由
-| Router ||
-| ------------- |:-------------:| :-------------:| :-------------:| -----:|
+| **Router** |**路由**|
 |[Angular路由嵌套](https://wscats.github.io/angular-demo/UI路由嵌套DEMO.html)|[Angular路由单页多个ui-view](https://wscats.github.io/angular-demo/uiRoute/index.html)|
-
-## 过滤器
-| Filter ||
-| ------------- |:-------------:| :-------------:| :-------------:| -----:|
+| **Filter** |**过滤器**|
 |[Angular自带过滤器](https://wscats.github.io/angular-demo/angular自带过滤器.html)|[Angular自定义关键词检索过滤器](https://wscats.github.io/angular-demo/自定义关键词检索过滤器.html)|
-
-## 动画
-| Animate ||
-| ------------- |:-------------:| :-------------:| :-------------:| -----:|
+| **Animate** |**动画**|
 |[Angular ng-animate动画1](https://wscats.github.io/angular-demo/ng-animate动画.html)|[Angular ng-animate动画2](https://wscats.github.io/angular-demo/ng-animate动画2.html)|
-
-
-## 其他
-| Other ||
-| ------------- |:-------------:| :-------------:| :-------------:| -----:|
+| **Other** |**其他**|
 |[Angular中使用iframe](https://wscats.github.io/angular-demo/iframesdemo.html)|[Angular三级联动(1)](https://wscats.github.io/angular-demo/%E4%B8%89%E7%BA%A7%E8%81%94%E5%8A%A8.html)|
 |[Angular中使用ng-switch](https://wscats.github.io/angular-demo/ngSwitch.html)|[百度定位DEMO](https://wscats.github.io/angular-demo/百度地图定位DEMO.html)|
 |[Angular三级联动(2)](https://wscats.github.io/angular-demo/三级联动改进.html)|[Angular事件监听](https://wscats.github.io/angular-demo/事件监听.html)|
@@ -103,11 +78,7 @@ _These share data are from my usual work and learning，hoping to help you，If 
 |[Angular自定义cookie服务和ngCookie的使用](https://wscats.github.io/angular-demo/ngCookie.html)|[图灵机器人](https://wscats.github.io/angular-demo/图灵机器人.html)|
 |[Angular利用angular.module()实现模块化](https://wscats.github.io/angular-demo/angular模块化.html)|[Angular的form表单验证](https://wscats.github.io/angular-demo/form表单验证.html)|
 |[Angular的ng-repeat嵌套](https://wscats.github.io/angular-demo/ng-repeat嵌套.html)|[Angular利用angular.module()实现模块化2](https://wscats.github.io/angular-demo/angular模块化2.html)|
-
-
-## PHP
-| title | article |
-| ------------- |:-------------:| :-------------:| :-------------:| -----:|
+| **PHP** | **PHP** |
 |[PHP CURL请求的小细节](https://github.com/Wscats/Good-text-Share/issues/53)||
 
 ## Node

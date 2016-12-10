@@ -111,8 +111,9 @@ _These share data are from my usual work and learning，hoping to help you，If 
 |[Atom技巧总结](https://github.com/Wscats/Good-text-Share/issues/30)|[Mac小技巧](https://github.com/Wscats/Good-text-Share/issues/46)|
 |[CSDN页面内JS跳转脚本](https://github.com/Wscats/Good-text-Share/issues/9)|[CSDN博客隐藏配置](https://github.com/Wscats/Good-text-Share/issues/8)|
 |[百度设置小度机器人出现](https://github.com/Wscats/Good-text-Share/issues/7)|[前端冷知识，妙用浏览器地址栏](https://github.com/Wscats/Good-text-Share/issues/2)|
-|[Git操作](https://github.com/Wscats/Good-text-Share/issues/20)|[IE8及以下按钮超链接无法跳转的问题](https://github.com/Wscats/Good-text-Share/issues/33)|
 |[Vim笔记](https://github.com/Wscats/Good-text-Share/issues/27)|[Cordova配置&&Ionic配置（WebApp混合开发环境）](https://github.com/Wscats/Good-text-Share/issues/48)|
+|[IE8及以下按钮超链接无法跳转的问题](https://github.com/Wscats/Good-text-Share/issues/33)||
+
 
 ## React
 | React | Reference |
@@ -174,6 +175,18 @@ _These share data are from my usual work and learning，hoping to help you，If 
 |[开放静态文件 CDN - 七牛](http://staticfile.org)|[CDN加速 - jq22](http://www.jq22.com/cdn)|
 |[微软CDN](http://www.asp.net/ajax/cdn)|[Angular CDN](https://code.angularjs.org/1.5.8/)|
 |[360网站卫士常用前端公共库CDN服务](http://libs.useso.com)||
+
+## Git
+| Article | Article |
+| ------------- |:-------------:| :-------------:| :-------------:| -----:|
+|[Git操作](https://github.com/Wscats/Good-text-Share/issues/20)|[Git CSDN Blog](http://blog.csdn.net/qq_27080247/article/details/49942991)|
+| **Reference** | **Reference** |
+|[Git-scm](http://git-scm.com)|[Git-for-windows](https://git-for-windows.github.io)|
+|[廖雪峰-Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)|[Gogithub](http://www.worldhello.net/gotgithub/index.html)|
+|[Git常规命令练习](http://pcottle.github.io/learnGitBranching)|[Git的资料整理](https://github.com/xirong/my-git)|
+|[我所记录的git命令（非常实用）](http://www.cnblogs.com/fanfan259/p/4810517.html)|[GitHub 漫游指南](https://github.com/phodal/github-roam)|
+|[GitHub秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md)||
+|[动画方式练习git](http://onlywei.github.io/explain-git-with-d3)||
 
 ## 参考文档
 | Reference | Reference |

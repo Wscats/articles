@@ -1,4 +1,4 @@
-:smiley_cat:整理的技术分享和学习资料
+:smiley_cat:猫的前端回忆
 
 _These share data are from my usual work and learning，hoping to help you，If you like you can star_
 
@@ -179,10 +179,9 @@ _These share data are from my usual work and learning，hoping to help you，If 
 |[YSLOW中文介绍](http://www.cnblogs.com/yslow)|[Yahoo!团队实践分享：网站性能](http://www.360doc.com/content/10/0928/09/2588264_56971287.shtml)|
 |[加载，不只是少一点点](http://tgideas.qq.com/webplat/info/news_version3/804/808/811/m579/201109/41355.shtml)|[由12306谈谈网站前端性能和后端性能优化](http://coolshell.cn/articles/6470.html)|
 |[【高性能前端1】高性能HTML](http://www.alloyteam.com/2012/10/high-performance-html)|[【高性能前端2】高性能CSS](http://www.alloyteam.com/2012/10/high-performance-css)|
-|[毫秒必争，前端网页性能最佳实践](http://www.cnblogs.com/developersupport/p/3248695.html)|
 |[前端工程与性能优化（上）：静态资源版本更新与缓存](http://www.infoq.com/cn/articles/front-end-engineering-and-performance-optimization-part1)|[前端工程与性能优化（下）：静态资源管理与模板框架](http://www.infoq.com/cn/articles/front-end-engineering-and-performance-optimization-part2)|
 |[HTTPS连接的前几毫秒发生了什么](http://blog.jobbole.com/48369)|[Yslow](http://uicss.cn/yslow/#more-12319)|
-|[阿里无线前端性能优化指南(Pt.1 加载期优化)](https://github.com/amfe/article/issues/1)||
+|[阿里无线前端性能优化指南(Pt.1 加载期优化)](https://github.com/amfe/article/issues/1)|[毫秒必争，前端网页性能最佳实践](http://www.cnblogs.com/developersupport/p/3248695.html)|
 
 ## CDN
 | Reference | Reference |

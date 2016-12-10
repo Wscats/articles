@@ -166,6 +166,14 @@ _These share data are from my usual work and learning，hoping to help you，If 
 |[奇趣百科性能优化(Chrome DevTools 中的 Timeline Profils 等工具使用介绍](https://xinranliu.me/2015-05-22-qiqu-performance)|[Chrome 开发者工具的 15 个小技巧](http://frontenddev.org/link/15-tips-of-chrome-developer-tools.html)|
 |[Chrome开发者工具不完全指南](http://1ke.co/course/361)|[Chrome 开发者工具使用技巧](http://segmentfault.com/a/1190000003882567)|
 
+## CDN
+| Reference | Reference |
+| ------------- |:-------------:| :-------------:| :-------------:| -----:|
+|[新浪CDN](http://lib.sinaapp.com)|[百度静态资源公共库](http://cdn.code.baidu.com)|
+|[360网站卫士常用前端公共库CDN服务](http://libs.useso.com)|[Bootstrap中文网开源项目免费 CDN 服务](http://www.bootcdn.cn)|
+|[开放静态文件 CDN - 七牛](http://staticfile.org)|[CDN加速 - jq22](http://www.jq22.com/cdn)|
+|[微软CDN](http://www.asp.net/ajax/cdn)|
+
 ## 参考文档
 | Reference | Reference |
 | ------------- |:-------------:| :-------------:| :-------------:| -----:|

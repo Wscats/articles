@@ -157,6 +157,15 @@ _These share data are from my usual work and learning，hoping to help you，If 
 |[BAT及各大互联网公司2014前端笔试面试题：JavaScript篇](http://blog.jobbole.com/78738/)|[前端开发面试题大收集](https://github.com/paddingme/Front-end-Web-Development-Interview-Question)|
 |[收集的前端面试题和答案](https://github.com/qiu-deqing/FE-interview)|[前端开发面试题](https://github.com/markyun/My-blog/blob/master/Front-end-Developer-Questions/Questions-and-Answers/README.md)|
 
+## 在线演示
+| Reference | Reference |
+| ------------- |:-------------:| :-------------:| :-------------:| -----:|
+|[js 在线编辑 - runjs](http://runjs.cn)|[js 在线编辑 - jsbin](http://jsbin.com)|
+|[js 在线编辑 - codepen](http://codepen.io)|[js 在线编辑 - jsfiddle](http://jsfiddle.net)|
+|[java 在线编辑 - runjs](http://ideone.com)|[js 在线编辑 - hcharts](http://code.hcharts.cn)|
+|[js 在线编辑 - jsdm](http://jsdm.com)|[sql 在线编辑 - sqlfiddle](http://sqlfiddle.com)|
+|[mozilla 在线编辑器](https://thimble.mozilla.org)||
+
 ## Chrome
 | Reference | Reference |
 | ------------- |:-------------:| :-------------:| :-------------:| -----:|

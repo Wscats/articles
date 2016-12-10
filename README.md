@@ -15,7 +15,7 @@
 | **Reference** | **Reference** |
 |[JavaScript中的this陷阱的最全收集--没有之一](https://segmentfault.com/a/1190000002640298)|[JS函数式编程指南](https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/ch1.html)|
 |[JavaScript Promise迷你书（中文版）](http://liubin.github.io/promises-book)|[阮一峰 Javascript](http://javascript.ruanyifeng.com)|
-|[前端 TOP 100](https://www.awesomes.cn/rank)||
+|[前端 TOP 100](https://www.awesomes.cn/rank)|[小白的零基础JavaScript全栈教程](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)|
 
 ## UI
 | Reference | Reference |
@@ -172,13 +172,15 @@
 |[社会化分享组件(Mobile)](http://developer.baidu.com/soc/share)|[ShareSDK轻松实现社会化功能(Mobile)](http://www.mob.com)|
 |[友盟分享(Mobile)](http://dev.umeng.com/social/android/quick-integration)||
 
-## 面试
+## 前端面试
 | Reference | Reference |
 | ------------- |:-------------:| :-------------:| :-------------:| -----:|
+|[2016校招内推 -- 阿里巴巴前端 -- 四面面试经历](http://www.cnblogs.com/imwtr/p/4685546.html)|[那几个月在找工作（百度，网易游戏，华为）](https://www.nowcoder.com/discuss/3196)|
 |[前端开发面试题](https://segmentfault.com/a/1190000000465431)|[Front-end-Interview-questions](https://github.com/hawx1993/Front-end-Interview-questions)|
 |[5个经典的前端面试问题](http://ourjs.com/detail/5%E4%B8%AA%E7%BB%8F%E5%85%B8%E7%9A%84%E5%89%8D%E7%AB%AF%E)|[Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions/tree/master/Translations/Chinese)|
 |[BAT及各大互联网公司2014前端笔试面试题：JavaScript篇](http://blog.jobbole.com/78738/)|[前端开发面试题大收集](https://github.com/paddingme/Front-end-Web-Development-Interview-Question)|
 |[收集的前端面试题和答案](https://github.com/qiu-deqing/FE-interview)|[前端开发面试题](https://github.com/markyun/My-blog/blob/master/Front-end-Developer-Questions/Questions-and-Answers/README.md)|
+|[前端面试大全](https://segmentfault.com/a/1190000005947094)|[关于前端面试](https://mdluo.github.io/blog/about-front-end-interview/)|
 
 ## 在线演示
 | Reference | Reference |
@@ -268,7 +270,8 @@
 |[前端免费书籍大全](https://github.com/vhf/free-programming-books)|[重新介绍JavaScript（JS教程）](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/A_re-introduction_to_JavaScript)|
 |[Gitbook](https://www.gitbook.com 国外的在线markdown可编辑成书)|[Front-End-Develop-Guide 前端开发指南](https://github.com/Front-End-Developers-Hunan/Front-End-Develop-Guide)|
 |[前端开发笔记本](https://li-xinyang.gitbooks.io/frontend-notebook/content)|[大前端工具集](https://github.com/nieweidong/fetool)|
-|[前端开发者手册](https://dwqs.gitbooks.io/frontenddevhandbook/content)||
+|[前端开发者手册](https://dwqs.gitbooks.io/frontenddevhandbook/content)|[结合个人经历总结的前端入门方法](https://github.com/qiu-deqing/FE-learning)|
+|[2016最新前端学习计划](http://blog.csdn.net/qq_25827845/article/details/53079094)|
 
 ## 前端规范
 | Reference | Reference |
@@ -279,13 +282,17 @@
 |[AMD与CMD规范的区别](http://www.cnblogs.com/tugenhua0707/p/3507957.html)|[KISSY 源码规范](http://docs.kissyui.com/1.4/docs/html/tutorials/style-guide/kissy-source-style.html)|
 |[前端代码规范及最佳实践](http://blog.jobbole.com/79075)|[百度前端规范](http://coderlmn.github.io/code-standards)|
 |[JavaScript风格指南/编码规范（Airbnb公司版）](http://blog.jobbole.com/79484)|[网易前端开发规范](http://nec.netease.com/standard)|
-|[前端规范资源列表](https://github.com/ecomfe/spec)||
+|[前端规范资源列表](https://github.com/ecomfe/spec)|[Web 前端开发规范文档](http://codecloud.net/5622.html)|
 
 
 ## 前端网站
 | Reference | Reference |
 | ------------- |:-------------:| :-------------:| :-------------:| -----:|
+|[掘金](https://gold.xitu.io/)|
+|[百度FEX](http://fex.baidu.com/)|[阿里UED](http://www.aliued.com/)|
+|[QDFuns](http://www.qdfuns.com/portal.php)|[幕课网](http://www.imooc.com/)|
 |[Codepen](http://codepen.io/)|[Sentsin](http://sentsin.com/daohang/)|
+|[菜鸟教程](http://www.runoob.com/)|
 
 ## 算法
 | Reference | Reference |

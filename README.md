@@ -170,6 +170,16 @@ _These share data are from my usual work and learning，hoping to help you，If 
 |[奇趣百科性能优化(Chrome DevTools 中的 Timeline Profils 等工具使用介绍](https://xinranliu.me/2015-05-22-qiqu-performance)|[Chrome 开发者工具的 15 个小技巧](http://frontenddev.org/link/15-tips-of-chrome-developer-tools.html)|
 |[Chrome开发者工具不完全指南](http://1ke.co/course/361)|[Chrome 开发者工具使用技巧](http://segmentfault.com/a/1190000003882567)|
 
+## 性能优化
+| Reference | Reference |
+| ------------- |:-------------:| :-------------:| :-------------:| -----:|
+|[Javascript高性能动画与页面渲染](http://www.infoq.com/cn/articles/javascript-high-performance-animation-and-page-rendering)|[移动H5前端性能优化指南](http://isux.tencent.com/h5-performance.html)|
+|[给网页设计师和前端开发者看的前端性能优化](http://www.uisdc.com/front-end-performance-for-web-designers-and-front-end-developers)|[张鑫旭——前端性能](http://www.zhangxinxu.com/wordpress/tag/%E5%89%8D%E7%AB%AF%E6%80%A7%E8%83%BD/)|
+|[web前端性能优化进阶路](http://www.aliued.cn/2013/01/20/web%E5%89%8D%E7%AB%AF%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E8%BF%9B%E9%98%B6%E8%B7%AF.html)|[Hey——前端性能](http://www.feelcss.com/tag/%E5%89%8D%E7%AB%AF%E6%80%A7%E8%83%BD)|
+|[YSLOW中文介绍](http://www.cnblogs.com/yslow)|[Yahoo!团队实践分享：网站性能](http://www.360doc.com/content/10/0928/09/2588264_56971287.shtml)|
+|[加载，不只是少一点点](http://tgideas.qq.com/webplat/info/news_version3/804/808/811/m579/201109/41355.shtml)||
+|[【高性能前端1】高性能HTML](http://www.alloyteam.com/2012/10/high-performance-html)|[【高性能前端2】高性能CSS](http://www.alloyteam.com/2012/10/high-performance-css)|
+
 ## CDN
 | Reference | Reference |
 | ------------- |:-------------:| :-------------:| :-------------:| -----:|

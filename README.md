@@ -153,6 +153,19 @@ _These share data are from my usual work and learning，hoping to help you，If 
 |[BAT及各大互联网公司2014前端笔试面试题：JavaScript篇](http://blog.jobbole.com/78738/)|[前端开发面试题大收集](https://github.com/paddingme/Front-end-Web-Development-Interview-Question)|
 |[收集的前端面试题和答案](https://github.com/qiu-deqing/FE-interview)|[前端开发面试题](https://github.com/markyun/My-blog/blob/master/Front-end-Developer-Questions/Questions-and-Answers/README.md)|
 
+## Chrome
+| Reference | Reference |
+| ------------- |:-------------:| :-------------:| :-------------:| -----:|
+|[Chrome - 基础](http://www.cnblogs.com/constantince/p/4565261.html)|[Chrome - 进阶](http://www.cnblogs.com/constantince/p/4579121.html)|
+|[Chrome - 性能](http://www.cnblogs.com/constantince/p/4585983.html)|[Chrome - 性能进阶](http://www.cnblogs.com/constantince/p/4607497.html)|
+|[Chrome - 移动](http://www.cnblogs.com/constantince/p/4624241.html)|[Chrome - 使用技巧](http://www.cnblogs.com/liyunhua/p/4544738.html)|
+|[Chrome - Console控制台不完全指南](http://www.cnblogs.com/Wayou/p/chrome-console-tips-and-tricks.html)|[chrome开发工具快捷键](http://anti-code.com/devtools-cheatsheet)|
+|[Chrome 开发工具 Workspace 使用](http://www.iinterest.net/2014/05/09/chrome-dev-tool-workspace)|[Chrome神器Vimium快捷键学习记录](http://www.cppblog.com/deercoder/archive/2011/10/22/158886.html)|
+|[sass调试-w3cplus](http://www.w3cplus.com/sassguide/debug.html)|[如何更专业的使用Chrome开发者工具-w3cplus](http://www.w3cplus.com/tools/how-to-use-chrome-devtools-like-a-pro.html)|
+|[Chrome调试canvas](http://sentsin.com/web/253.html)|[神器——Chrome开发者工具(一)](https://segmentfault.com/a/1190000000683599)|
+|[奇趣百科性能优化(Chrome DevTools 中的 Timeline Profils 等工具使用介绍](https://xinranliu.me/2015-05-22-qiqu-performance)|[Chrome 开发者工具的 15 个小技巧](http://frontenddev.org/link/15-tips-of-chrome-developer-tools.html)|
+|[Chrome开发者工具不完全指南](http://1ke.co/course/361)|[Chrome 开发者工具使用技巧](http://segmentfault.com/a/1190000003882567)|
+
 ## 参考文档
 | Reference | Reference |
 | ------------- |:-------------:| :-------------:| :-------------:| -----:|

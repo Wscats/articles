@@ -17,6 +17,7 @@ _These share data are from my usual work and learning，hoping to help you，If 
 | **Reference** | **Reference** |
 |[JavaScript中的this陷阱的最全收集--没有之一](https://segmentfault.com/a/1190000002640298)|[JS函数式编程指南](https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/ch1.html)|
 |[JavaScript Promise迷你书（中文版）](http://liubin.github.io/promises-book)|[阮一峰 Javascript](http://javascript.ruanyifeng.com)|
+|[前端 TOP 100](https://www.awesomes.cn/rank)||
 
 ## ES
 | Reference | Reference |
@@ -90,6 +91,10 @@ _These share data are from my usual work and learning，hoping to help you，If 
 | Node | Article |
 | ------------- |:-------------:| :-------------:| :-------------:| -----:|
 |[node技巧](https://github.com/Wscats/Good-text-Share/issues/44)|[NodeJs静态服务器](https://github.com/Wscats/angular-demo/tree/gh-pages/diyNodeServer)|
+| **Reference** | **Reference** |
+|[Node.js 包教不包会](https://github.com/alsotang/node-lessons)|[七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/)|
+|[从零开始nodejs系列文章](http://blog.fens.me/series-nodejs)|[Node入门](http://www.nodebeginner.org/index-zh-cn.html)|
+|[Node初学者入门，一本全面的NodeJS教程](http://ourjs.com/detail/529ca5950cb6498814000005)||
 
 ## Gulp 
 | Gulp | Reference |
@@ -139,6 +144,14 @@ _These share data are from my usual work and learning，hoping to help you，If 
 |[计算属性](https://wscats.github.io/vue-demo/vue计算属性.html)|||
 | Component |组件||
 |[组件demo](https://wscats.github.io/vue-demo/组件.html)|||
+
+## 面试
+| Reference | Reference |
+| ------------- |:-------------:| :-------------:| :-------------:| -----:|
+|[前端开发面试题](https://segmentfault.com/a/1190000000465431)|[Front-end-Interview-questions](https://github.com/hawx1993/Front-end-Interview-questions)|
+|[5个经典的前端面试问题](http://ourjs.com/detail/5%E4%B8%AA%E7%BB%8F%E5%85%B8%E7%9A%84%E5%89%8D%E7%AB%AF%E)|[Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions/tree/master/Translations/Chinese)|
+|[BAT及各大互联网公司2014前端笔试面试题：JavaScript篇](http://blog.jobbole.com/78738/)|[前端开发面试题大收集](https://github.com/paddingme/Front-end-Web-Development-Interview-Question)|
+|[收集的前端面试题和答案](https://github.com/qiu-deqing/FE-interview)|[前端开发面试题](https://github.com/markyun/My-blog/blob/master/Front-end-Developer-Questions/Questions-and-Answers/README.md)|
 
 ## 参考文档
 | Reference | Reference |

@@ -95,6 +95,9 @@
 |[PHP CURL请求的小细节](https://github.com/Wscats/Good-text-Share/issues/53)||
 | **Reference** | **Reference** |
 |[最流行的PHP 代码规范](https://segmentfault.com/a/1190000000443795)|[最流行的PHP 代码规范](https://github.com/hfcorriez/fig-standards/blob/zh_CN/%E6%8E%A5%E5%8F%97/PSR-2-coding-style-guide.md)|
+|[Angular.js的一些学习资源](http://blog.aijc.net/AngularLearning/)|[Angularjs中文社区](http://angularjs.cn)|
+|[一些扩展Angular UI组件](https://github.com/angular-ui)|[Angular UI](http://mgcrea.github.io/angular-strap)|
+|[AngularJS在线教程](http://each.sinaapp.com/angular)|[Angular学习笔记](http://www.zouyesheng.com/angular.html)|
 
 ## React
 | React | Reference |
@@ -290,5 +293,5 @@
 ## ES
 | Reference | Reference |
 | ------------- |:-------------:| :-------------:| :-------------:| -----:|
-|[exploring-es6翻译](http://es6-org.github.io/exploring-es6/)|[阮一峰 es6](http://es6.ruanyifeng.com)|
-|[ECMA-262，第 5 版](http://yanhaijing.com/es5)|[es5](http://es5.github.io)|
+|[Exploring-ES6翻译](http://es6-org.github.io/exploring-es6/)|[阮一峰 ES6](http://es6.ruanyifeng.com)|
+|[ECMA-262，第 5 版](http://yanhaijing.com/es5)|[ES5](http://es5.github.io)|

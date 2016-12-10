@@ -166,6 +166,15 @@ _These share data are from my usual work and learning，hoping to help you，If 
 |[js 在线编辑 - jsdm](http://jsdm.com)|[sql 在线编辑 - sqlfiddle](http://sqlfiddle.com)|
 |[mozilla 在线编辑器](https://thimble.mozilla.org)||
 
+## 富文本编辑器
+| Reference | Reference |
+| ------------- |:-------------:| :-------------:| :-------------:| -----:|
+|[百度ueditor](http://ueditor.baidu.com/website)|[ckeditor](http://ckeditor.com)|
+|[tinymce](https://www.tinymce.com)|[kindeditor](http://kindeditor.net)|
+|[wysiwyg](http://www.bootcss.com/p/bootstrap-wysiwyg)|[BachEditor](http://integ.github.io/BachEditor)|
+|[simditor](https://github.com/mycolorway/simditor)|[summernote](https://github.com/summernote/summernote)|
+|[Squire](http://neilj.github.io/Squire)|[wangEditor](https://github.com/wangfupeng1988/wangEditor)|
+
 ## Chrome
 | Reference | Reference |
 | ------------- |:-------------:| :-------------:| :-------------:| -----:|

@@ -152,6 +152,12 @@
 |[Vim笔记](https://github.com/Wscats/Good-text-Share/issues/27)|[Cordova配置&&Ionic配置（WebApp混合开发环境）](https://github.com/Wscats/Good-text-Share/issues/48)|
 |[IE8及以下按钮超链接无法跳转的问题](https://github.com/Wscats/Good-text-Share/issues/33)||
 
+## 分享功能
+| Share | Article |
+| ------------- |:-------------:| :-------------:| :-------------:| -----:|
+|[百度分享(PC)](http://share.baidu.com)|[JiaThis(PC)](http://jiathis.com)|
+|[社会化分享组件(Mobile)](http://developer.baidu.com/soc/share)|[ShareSDK轻松实现社会化功能(Mobile)](http://www.mob.com)|
+|[友盟分享(Mobile)](http://dev.umeng.com/social/android/quick-integration)||
 
 ## 面试
 | Reference | Reference |

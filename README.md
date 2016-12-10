@@ -169,10 +169,11 @@ _These share data are from my usual work and learning，hoping to help you，If 
 ## CDN
 | Reference | Reference |
 | ------------- |:-------------:| :-------------:| :-------------:| -----:|
+|[Jquery&Bootstrap中文网开源项目免费 CDN 服务](http://www.bootcdn.cn/jquery)|[Bootstrap中文网开源项目免费 CDN 服务](http://www.bootcdn.cn)|
 |[新浪CDN](http://lib.sinaapp.com)|[百度静态资源公共库](http://cdn.code.baidu.com)|
-|[360网站卫士常用前端公共库CDN服务](http://libs.useso.com)|[Bootstrap中文网开源项目免费 CDN 服务](http://www.bootcdn.cn)|
 |[开放静态文件 CDN - 七牛](http://staticfile.org)|[CDN加速 - jq22](http://www.jq22.com/cdn)|
-|[微软CDN](http://www.asp.net/ajax/cdn)|
+|[微软CDN](http://www.asp.net/ajax/cdn)|[Angular CDN](https://code.angularjs.org/1.5.8/)|
+|[360网站卫士常用前端公共库CDN服务](http://libs.useso.com)||
 
 ## 参考文档
 | Reference | Reference |

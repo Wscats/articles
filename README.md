@@ -185,8 +185,7 @@ _These share data are from my usual work and learning，hoping to help you，If 
 |[廖雪峰-Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)|[Gogithub](http://www.worldhello.net/gotgithub/index.html)|
 |[Git常规命令练习](http://pcottle.github.io/learnGitBranching)|[Git的资料整理](https://github.com/xirong/my-git)|
 |[我所记录的git命令（非常实用）](http://www.cnblogs.com/fanfan259/p/4810517.html)|[GitHub 漫游指南](https://github.com/phodal/github-roam)|
-|[GitHub秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md)||
-|[动画方式练习git](http://onlywei.github.io/explain-git-with-d3)||
+|[GitHub秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md)|[动画方式练习git](http://onlywei.github.io/explain-git-with-d3)|
 
 ## 参考文档
 | Reference | Reference |

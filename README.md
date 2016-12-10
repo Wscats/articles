@@ -172,16 +172,6 @@
 |[社会化分享组件(Mobile)](http://developer.baidu.com/soc/share)|[ShareSDK轻松实现社会化功能(Mobile)](http://www.mob.com)|
 |[友盟分享(Mobile)](http://dev.umeng.com/social/android/quick-integration)||
 
-## 前端面试
-| Reference | Reference |
-| ------------- |:-------------:| :-------------:| :-------------:| -----:|
-|[2016校招内推 -- 阿里巴巴前端 -- 四面面试经历](http://www.cnblogs.com/imwtr/p/4685546.html)|[那几个月在找工作（百度，网易游戏，华为）](https://www.nowcoder.com/discuss/3196)|
-|[前端开发面试题](https://segmentfault.com/a/1190000000465431)|[Front-end-Interview-questions](https://github.com/hawx1993/Front-end-Interview-questions)|
-|[5个经典的前端面试问题](http://ourjs.com/detail/5%E4%B8%AA%E7%BB%8F%E5%85%B8%E7%9A%84%E5%89%8D%E7%AB%AF%E)|[Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions/tree/master/Translations/Chinese)|
-|[BAT及各大互联网公司2014前端笔试面试题：JavaScript篇](http://blog.jobbole.com/78738/)|[前端开发面试题大收集](https://github.com/paddingme/Front-end-Web-Development-Interview-Question)|
-|[收集的前端面试题和答案](https://github.com/qiu-deqing/FE-interview)|[前端开发面试题](https://github.com/markyun/My-blog/blob/master/Front-end-Developer-Questions/Questions-and-Answers/README.md)|
-|[前端面试大全](https://segmentfault.com/a/1190000005947094)|[关于前端面试](https://mdluo.github.io/blog/about-front-end-interview/)|
-
 ## 在线演示
 | Reference | Reference |
 | ------------- |:-------------:| :-------------:| :-------------:| -----:|
@@ -284,6 +274,15 @@
 |[JavaScript风格指南/编码规范（Airbnb公司版）](http://blog.jobbole.com/79484)|[网易前端开发规范](http://nec.netease.com/standard)|
 |[前端规范资源列表](https://github.com/ecomfe/spec)|[Web 前端开发规范文档](http://codecloud.net/5622.html)|
 
+## 前端面试
+| Reference | Reference |
+| ------------- |:-------------:| :-------------:| :-------------:| -----:|
+|[2016校招内推 -- 阿里巴巴前端 -- 四面面试经历](http://www.cnblogs.com/imwtr/p/4685546.html)|[那几个月在找工作（百度，网易游戏，华为）](https://www.nowcoder.com/discuss/3196)|
+|[前端开发面试题](https://segmentfault.com/a/1190000000465431)|[Front-end-Interview-questions](https://github.com/hawx1993/Front-end-Interview-questions)|
+|[5个经典的前端面试问题](http://ourjs.com/detail/5%E4%B8%AA%E7%BB%8F%E5%85%B8%E7%9A%84%E5%89%8D%E7%AB%AF%E)|[Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions/tree/master/Translations/Chinese)|
+|[BAT及各大互联网公司2014前端笔试面试题：JavaScript篇](http://blog.jobbole.com/78738/)|[前端开发面试题大收集](https://github.com/paddingme/Front-end-Web-Development-Interview-Question)|
+|[收集的前端面试题和答案](https://github.com/qiu-deqing/FE-interview)|[前端开发面试题](https://github.com/markyun/My-blog/blob/master/Front-end-Developer-Questions/Questions-and-Answers/README.md)|
+|[前端面试大全](https://segmentfault.com/a/1190000005947094)|[关于前端面试](https://mdluo.github.io/blog/about-front-end-interview/)|
 
 ## 前端网站
 | Reference | Reference |

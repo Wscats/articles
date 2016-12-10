@@ -266,7 +266,9 @@
 |[前端知识结构](https://github.com/JacksonTian/fks)|[Web前端开发大系概览](https://github.com/unruledboy/WebFrontEndStack)|
 |[免费的编程中文书籍索](https://github.com/justjavac/free-programming-books-zh_CN)|[前端书籍](https://github.com/dypsilon/frontend-dev-bookmarks)|
 |[前端免费书籍大全](https://github.com/vhf/free-programming-books)|[重新介绍JavaScript（JS教程）](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/A_re-introduction_to_JavaScript)|
-|[Gitbook](https://www.gitbook.com 国外的在线markdown可编辑成书)||
+|[Gitbook](https://www.gitbook.com 国外的在线markdown可编辑成书)|[Front-End-Develop-Guide 前端开发指南](https://github.com/Front-End-Developers-Hunan/Front-End-Develop-Guide)|
+|[前端开发笔记本](https://li-xinyang.gitbooks.io/frontend-notebook/content)|[大前端工具集](https://github.com/nieweidong/fetool)|
+|[前端开发者手册](https://dwqs.gitbooks.io/frontenddevhandbook/content)||
 
 ## 前端规范
 | Reference | Reference |
@@ -278,6 +280,7 @@
 |[前端代码规范及最佳实践](http://blog.jobbole.com/79075)|[百度前端规范](http://coderlmn.github.io/code-standards)|
 |[JavaScript风格指南/编码规范（Airbnb公司版）](http://blog.jobbole.com/79484)|[网易前端开发规范](http://nec.netease.com/standard)|
 |[前端规范资源列表](https://github.com/ecomfe/spec)||
+
 
 ## 前端网站
 | Reference | Reference |

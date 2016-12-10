@@ -19,10 +19,10 @@
 
 
 ## UI
-| Article | Article |
+| Reference | Reference |
 | ------------- |:-------------:| :-------------:| :-------------:| -----:|
 |[WeUI](https://github.com/weui/weui)|[Bootstrap](http://www.bootcss.com)|
-|[MUI-最接近原生APP体验的高性能前端框架](http://dev.dcloud.net.cn/mui/)|[Amaze UI](中国首个开源HTML5跨屏前端框架http://amazeui.org)|
+|[MUI-最接近原生APP体验的高性能前端框架](http://dev.dcloud.net.cn/mui/)|[Amaze UI中国首个开源HTML5跨屏前端框架](http://amazeui.org)|
 |[Frozen UI](http://frozenui.github.io/)|[Foundation](http://foundation.zurb.com/)|
 |[SUI](http://sui.taobao.org/sui/docs/)|[ZUI](https://github.com/easysoft/zui)|
 |[淘宝HTML5前端框架](http://m.sui.taobao.org)|[KISSY - 阿里前端JavaScript库](http://docs.kissyui.com)|
@@ -153,7 +153,7 @@
 |[IE8及以下按钮超链接无法跳转的问题](https://github.com/Wscats/Good-text-Share/issues/33)||
 
 ## 分享功能
-| Share | Article |
+| Share | Reference |
 | ------------- |:-------------:| :-------------:| :-------------:| -----:|
 |[百度分享(PC)](http://share.baidu.com)|[JiaThis(PC)](http://jiathis.com)|
 |[社会化分享组件(Mobile)](http://developer.baidu.com/soc/share)|[ShareSDK轻松实现社会化功能(Mobile)](http://www.mob.com)|

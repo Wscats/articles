@@ -1,6 +1,6 @@
 :smiley_cat:_These share data are from my usual work and learning，hoping to help you，If you like you can star_
 
-更多详情可关注作者猫[@wscat](https://github.com/Wscats)和主人[@windiest](https://github.com/windiest)
+更多详情可关注作者猫[wscat](https://github.com/Wscats)和主人[windiest](https://github.com/windiest),谢谢~
 
 ## Javascript
 | Article | Article |

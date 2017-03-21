@@ -119,7 +119,7 @@
 
 ## Vue
 | Vue |AppDemo|Demo|
-| --------- | --------- |
+| --------- | --------- | --------- |
 |[NewsDemo](https://wscats.github.io/vue-demo/news/index.html)|[vue计算属性](https://wscats.github.io/vue-demo/vue计算属性.html)|[vue生命周期](https://wscats.github.io/vue-demo/vue生命周期.html)|
 | **Article** |**Vue文档**||
 |[Vue-cli脚手架](https://github.com/Wscats/vue-demo/issues/2)|[Vue组件](https://github.com/Wscats/vue-demo/issues/3)|[vue自定义指令](https://github.com/Wscats/vue-demo/issues/8)|

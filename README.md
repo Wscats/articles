@@ -6,7 +6,7 @@
 | Article | Article |
 | --------- | --------- |
 |[Javascript深浅拷贝](https://github.com/Wscats/Good-text-Share/issues/57)|[Javascript中的apply和call继承](https://github.com/Wscats/Good-text-Share/issues/56)|
-|[前端程序员经常忽视的一个JavaScript面试题]|(https://github.com/Wscats/Good-text-Share/issues/85)|[我如何用前端技术得到XXOO网站的VIP]|(https://github.com/Wscats/Good-text-Share/issues/62)|
+|[前端程序员经常忽视的一个JavaScript面试题](https://github.com/Wscats/Good-text-Share/issues/85)|[我如何用前端技术得到XXOO网站的VIP](https://github.com/Wscats/Good-text-Share/issues/62)|
 |[Javascript的jsonp原理](https://github.com/Wscats/Good-text-Share/issues/55)|[Javascript监听触摸事件](https://github.com/Wscats/Good-text-Share/issues/49)|
 |[Javascript中的var self = this](https://github.com/Wscats/Good-text-Share/issues/52)|[Javascript面向对象编程](https://github.com/Wscats/Good-text-Share/issues/32)|
 |[Javascript滑屏切换场景](https://github.com/Wscats/Good-text-Share/issues/14)|[Javascript获取经纬度，关于调用百度API的问题](https://github.com/Wscats/Good-text-Share/issues/16)|
@@ -166,7 +166,7 @@
 ## 其他
 | Other | Article |
 | --------- | --------- |
-|[关于Pornographic website的一些前端分析](https://github.com/Wscats/node-demo/issues/4)|[微信公众号开发](https://github.com/Wscats/Good-text-Share/issues/50)|
+|[Cordova配置（WebApp混合开发环境）](https://github.com/Wscats/node-demo/issues/48)|[微信公众号开发](https://github.com/Wscats/Good-text-Share/issues/50)|
 |[Atom技巧总结](https://github.com/Wscats/Good-text-Share/issues/30)|[Mac小技巧](https://github.com/Wscats/Good-text-Share/issues/46)|
 |[CSDN页面内JS跳转脚本](https://github.com/Wscats/Good-text-Share/issues/9)|[CSDN博客隐藏配置](https://github.com/Wscats/Good-text-Share/issues/8)|
 |[百度设置小度机器人出现](https://github.com/Wscats/Good-text-Share/issues/7)|[前端冷知识，妙用浏览器地址栏](https://github.com/Wscats/Good-text-Share/issues/2)|
@@ -285,7 +285,7 @@
 ## 前端面试
 | Reference | Reference |
 | --------- | --------- |
-|[前端程序员经常忽视的一个JavaScript面试题]|(https://github.com/Wscats/Good-text-Share/issues/85)|[切图仔面试宝典]|(https://github.com/Wscats/CV)|
+|[前端程序员经常忽视的一个JavaScript面试题](https://github.com/Wscats/Good-text-Share/issues/85)|[切图仔面试宝典](https://github.com/Wscats/CV)|
 |[2016校招内推 -- 阿里巴巴前端 -- 四面面试经历](http://www.cnblogs.com/imwtr/p/4685546.html)|[那几个月在找工作（百度，网易游戏，华为）](https://www.nowcoder.com/discuss/3196)|
 |[前端开发面试题](https://segmentfault.com/a/1190000000465431)|[Front-end-Interview-questions](https://github.com/hawx1993/Front-end-Interview-questions)|
 |[5个经典的前端面试问题](http://ourjs.com/detail/5%E4%B8%AA%E7%BB%8F%E5%85%B8%E7%9A%84%E5%89%8D%E7%AB%AF%E)|[Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions/tree/master/Translations/Chinese)|

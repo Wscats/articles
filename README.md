@@ -14,6 +14,8 @@
 
 [《切图仔面试宝典》](https://github.com/Wscats/CV)
 
+[iPhone X的适配方案](https://github.com/Wscats/iPhone-X)
+
 [腾讯Omi框架和Omil使用文档](https://github.com/Wscats/CV)
 
 [我如何用前端技术得到XXOO网站的VIP](https://github.com/Wscats/articles/issues/62)

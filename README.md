@@ -1,4 +1,4 @@
-# 记录我的学习片段
+# 记录我的一些学习片段
 
 [vue学习笔记](https://github.com/Wscats/vue-tutorial)
 
@@ -14,4 +14,12 @@
 
 [《切图仔面试宝典》](https://github.com/Wscats/CV)
 
+[前端程序员经常忽视的一个JavaScript面试题](https://github.com/Wscats/articles/issues/85)
+
 [腾讯Omi框架和Omil使用文档](https://github.com/Wscats/CV)
+
+# 记录做过的一些东西
+
+[微信跳一跳辅助](https://github.com/Wscats/wechat-jump-game)
+
+[编写React和Omi单文件组件的VSC语法高亮插件](https://github.com/Wscats/omi-snippets)

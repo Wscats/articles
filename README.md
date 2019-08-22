@@ -1,4 +1,4 @@
-# 记录我的的学习片段
+# 记录我的学习片段
 
 [vue学习笔记](https://github.com/Wscats/vue-tutorial)
 

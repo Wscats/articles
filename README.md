@@ -23,3 +23,6 @@
 [编写React和Omi单文件组件的VSC语法高亮插件](https://github.com/Wscats/omi-snippets)
 
 [微信小游戏跳一跳辅助](https://github.com/Wscats/wechat-jump-game)
+
+---
+欢迎您点star和提交issues，让我们共同进步和交换想法，使我多懂一点点知识。

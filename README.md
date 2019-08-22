@@ -20,6 +20,6 @@
 
 # 记录做过的一些东西
 
-[微信跳一跳辅助](https://github.com/Wscats/wechat-jump-game)
-
 [编写React和Omi单文件组件的VSC语法高亮插件](https://github.com/Wscats/omi-snippets)
+
+[微信小游戏跳一跳辅助](https://github.com/Wscats/wechat-jump-game)

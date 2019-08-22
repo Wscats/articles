@@ -1,12 +1,12 @@
 # 记录我的一些学习片段
 
-[vue学习笔记](https://github.com/Wscats/vue-tutorial)
+[Vue学习笔记](https://github.com/Wscats/vue-tutorial)
 
-[node学习笔记](https://github.com/Wscats/node-tutorial)
+[Node学习笔记](https://github.com/Wscats/node-tutorial)
 
-[react学习笔记](https://github.com/Wscats/react-tutorial)
+[React学习笔记](https://github.com/Wscats/react-tutorial)
 
-[angular学习笔记](https://github.com/Wscats/angular-tutorial)
+[Angular学习笔记](https://github.com/Wscats/angular-tutorial)
 
 
 

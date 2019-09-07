@@ -36,7 +36,7 @@
 
 - [CSS的各种布局](https://github.com/Wscats/layout-demo)
 
-这里只收录了我最近写的一些文章，更多详情可以看我的 [掘金](https://juejin.im/user/584c7f44ac502e0069275cd7)，[思否](https://segmentfault.com/u/enoy) 和 [CSDN](https://blog.csdn.net/qq_27080247)的归档文章。
+这里只收录了我最近写的一些文章，更多详情可以看我的 [掘金](https://juejin.im/user/584c7f44ac502e0069275cd7)，[思否](https://segmentfault.com/u/enoy) 和 [CSDN](https://blog.csdn.net/qq_27080247) 的归档文章。
 
 # 案例
 
@@ -48,4 +48,4 @@
 
 - [使用PHP的CodeIgnitier框架编写新闻客户端](https://github.com/Wscats/cms)
 
-如果文章和笔记能带您一丝帮助或者启发，请不要吝啬你的赞和Star，你的肯定是我前进的最大动力😁
+如果文章和笔记能带您一丝帮助或者启发，请不要吝啬你的赞和 Star，你的肯定是我前进的最大动力😁

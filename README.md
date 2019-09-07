@@ -6,7 +6,7 @@
 </p>
 
 每天坚持学习和分享直到我停止呼吸，大家来一起陪我共同见证吧。
-# 学习片段
+# 笔记
 
 - [Vue学习笔记](https://github.com/Wscats/vue-tutorial) 
 

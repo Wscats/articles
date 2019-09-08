@@ -16,13 +16,21 @@
 
 - [Angular学习笔记](https://github.com/Wscats/angular-tutorial)
 
+<b><details><summary>其他笔记</summary></b>
+- [RequireJS](https://github.com/Wscats/requirejs-demo)
+- [Webpack](https://github.com/Wscats/webpack)
+- [Gulp](https://github.com/Wscats/glup/blob/master/README.md)
+- [Python](https://github.com/Wscats/python-tutorial)
+- [Egret引擎](https://github.com/Wscats/egret)
+</details>
+
 另外，模块化或者打包可以看我的 [RequireJS](https://github.com/Wscats/requirejs-demo)，[Webpack](https://github.com/Wscats/webpack) 和 [Gulp](https://github.com/Wscats/glup/blob/master/README.md) 的笔记，后端我学习了 PHP 和 Node 之外，还花了点时间学习 [Python](https://github.com/Wscats/python-tutorial)，游戏方面研究了点 [Egret引擎](https://github.com/Wscats/egret)。
 
 # 文章
 
-- [《切图仔面试宝典》](https://github.com/Wscats/CV)
+- [📝《切图仔面试宝典》](https://github.com/Wscats/CV)
 
-- [用键盘8个键演奏一首蒲公英的约定送给自己或月亮代表我的心送给她](https://github.com/Wscats/piano)
+- [🎹用键盘8个键演奏一首蒲公英的约定送给自己或月亮代表我的心送给她](https://github.com/Wscats/piano)
 
 - [前端程序员经常忽视的一个JavaScript面试题](https://github.com/Wscats/articles/issues/85)
 

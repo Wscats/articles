@@ -17,11 +17,12 @@
 - [Angular学习笔记](https://github.com/Wscats/angular-tutorial)
 
 <b><details><summary>其他笔记</summary></b>
-- [RequireJS](https://github.com/Wscats/requirejs-demo)
-- [Webpack](https://github.com/Wscats/webpack)
-- [Gulp](https://github.com/Wscats/glup/blob/master/README.md)
-- [Python](https://github.com/Wscats/python-tutorial)
-- [Egret引擎](https://github.com/Wscats/egret)
+- [RequireJS学习笔记](https://github.com/Wscats/requirejs-demo)
+- [Webpack学习笔记](https://github.com/Wscats/webpack)
+- [Gulp学习笔记](https://github.com/Wscats/glup/blob/master/README.md)
+- [Python学习笔记](https://github.com/Wscats/python-tutorial)
+- [Egret引擎学习笔记](https://github.com/Wscats/egret)
+- [流处理，TCP和UDP，WebRTC和Blob学习笔记](https://github.com/Wscats/media-tutorial)
 </details>
 
 另外，模块化或者打包可以看我的 [RequireJS](https://github.com/Wscats/requirejs-demo)，[Webpack](https://github.com/Wscats/webpack) 和 [Gulp](https://github.com/Wscats/glup/blob/master/README.md) 的笔记，后端我学习了 PHP 和 Node 之外，还花了点时间学习 [Python](https://github.com/Wscats/python-tutorial)，游戏方面研究了点 [Egret引擎](https://github.com/Wscats/egret)。

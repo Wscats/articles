@@ -55,6 +55,8 @@
 
 - [编写React和Omi单文件组件的VSC语法高亮插件](https://github.com/Wscats/omi-snippets)
 
+- [6000万数据包和300万数据包在50M内存使用环境中求交集](https://github.com/Wscats/intersect)
+
 - [NodeJS实现《你画我猜》小游戏](https://github.com/Wscats/socket.io)
 
 - [使用PHP的CodeIgnitier框架编写新闻客户端](https://github.com/Wscats/cms)

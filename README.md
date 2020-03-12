@@ -57,6 +57,8 @@
 
 - [6000万数据包和300万数据包在50M内存使用环境中求交集](https://github.com/Wscats/intersect)
 
+- [大厂面试题分享：如何让(a===1&&a===2&&a===3)的值为true?](https://github.com/Wscats/CV/issues/28)
+
 - [NodeJS实现《你画我猜》小游戏](https://github.com/Wscats/socket.io)
 
 - [使用PHP的CodeIgnitier框架编写新闻客户端](https://github.com/Wscats/cms)

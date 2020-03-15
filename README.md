@@ -67,4 +67,4 @@
 
 如果文章和笔记能带您一丝帮助或者启发，请不要吝啬你的 Star 和 Fork，文章同步持续更新，可以微信搜索「 前端遨游 」关注公众号方便你往后阅读，你的肯定是我前进的最大动力😁
 
-![image](https://user-images.githubusercontent.com/17243165/76694092-76641c80-66a9-11ea-9645-9bed29e29bfa.png)
+<img src="https://user-images.githubusercontent.com/17243165/76694577-736c2a80-66af-11ea-859e-2ed5616709ad.png" />

@@ -51,6 +51,8 @@
 
 # 案例
 
+- [大型前端项目要怎么跟踪用户行为和分析函数调用链追踪方案](https://github.com/Wscats/performance-decorator)
+
 - [微信小游戏跳一跳辅助](https://github.com/Wscats/wechat-jump-game)
 
 - [编写React和Omi单文件组件的VSC语法高亮插件](https://github.com/Wscats/omi-snippets)

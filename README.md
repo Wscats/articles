@@ -37,7 +37,7 @@
 
 - [我如何用前端技术得到XXOO网站的VIP](https://github.com/Wscats/articles/issues/62)
 
-- [腾讯Omi框架和Omil使用文档](https://github.com/Wscats/CV)
+- [腾讯Omi框架和Omil使用文档](https://github.com/Wscats/omi-docs)
 
 - [iPhone X的适配方案](https://github.com/Wscats/iPhone-X)
 

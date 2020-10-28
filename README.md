@@ -41,6 +41,8 @@
 
 - [iPhone X的适配方案](https://github.com/Wscats/iPhone-X)
 
+- [try catch引发的性能优化深度思考](https://github.com/Wscats/CV/issues/33)
+
 - [基于Vue3.0 Composition Api快速构建实战项目](https://github.com/Wscats/vue-cli)
 
 - [关于Vue，React，Preact和Omi等框架源码的解读](https://github.com/Wscats/virtual-dom)

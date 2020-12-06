@@ -37,6 +37,8 @@
 
 - [我如何用前端技术得到XXOO网站的VIP](https://github.com/Wscats/articles/issues/62)
 
+- [我如何用最简单的前端技术揭示那些灰色产业背后的原理](https://github.com/Wscats/articles/issues/90)
+
 - [腾讯Omi框架和Omil使用文档](https://github.com/Wscats/omi-docs)
 
 - [iPhone X的适配方案](https://github.com/Wscats/iPhone-X)

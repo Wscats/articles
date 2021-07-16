@@ -16,14 +16,19 @@
 
 - [Angular学习笔记](https://github.com/Wscats/angular-tutorial)
 
-<b><details><summary>其他笔记</summary></b>
+<!-- <b><details><summary>其他笔记</summary></b> -->
 - [RequireJS学习笔记](https://github.com/Wscats/requirejs-demo)
+
 - [Webpack学习笔记](https://github.com/Wscats/webpack)
+
 - [Gulp学习笔记](https://github.com/Wscats/glup/blob/master/README.md)
+
 - [Python学习笔记](https://github.com/Wscats/python-tutorial)
+
 - [Egret引擎学习笔记](https://github.com/Wscats/egret)
+
 - [流处理，TCP和UDP，WebRTC和Blob学习笔记](https://github.com/Wscats/media-tutorial)
-</details>
+<!-- </details> -->
 
 另外，模块化或者打包可以看我的 [RequireJS](https://github.com/Wscats/requirejs-demo)，[Webpack](https://github.com/Wscats/webpack) 和 [Gulp](https://github.com/Wscats/glup/blob/master/README.md) 的笔记，后端我学习了 PHP 和 Node 之外，还花了点时间学习 [Python](https://github.com/Wscats/python-tutorial)，游戏方面研究了点 [Egret引擎](https://github.com/Wscats/egret)。
 
@@ -51,6 +56,8 @@
 
 - [CSS的各种布局](https://github.com/Wscats/layout-demo)
 
+- [深入浅出 Jest 框架的实现原理](https://github.com/Wscats/jest-tutorial)
+
 这里只收录了我最近写的一些文章，更多详情可以看我的 [掘金](https://juejin.im/user/584c7f44ac502e0069275cd7)，[思否](https://segmentfault.com/u/enoy) 和 [CSDN](https://blog.csdn.net/qq_27080247) 的归档文章。
 
 # 案例
@@ -73,6 +80,7 @@
 
 # 交流
 
-如果文章和笔记能带您一丝帮助或者启发，请不要吝啬你的 Star 和 Fork，文章同步持续更新，可以微信搜索「 前端遨游 」关注公众号方便你往后阅读，你的肯定是我前进的最大动力😁
+如果文章和笔记能带您一丝帮助或者启发，请不要吝啬你的 Star 和 Fork，文章会同步持续更新，你的肯定是我前进的最大动力😁
 
-<img src="https://user-images.githubusercontent.com/17243165/76694577-736c2a80-66af-11ea-859e-2ed5616709ad.png" />
+<!-- 可以微信搜索「 前端遨游 」关注公众号方便你往后阅读 -->
+<!-- <img src="https://user-images.githubusercontent.com/17243165/76694577-736c2a80-66af-11ea-859e-2ed5616709ad.png" /> -->

@@ -60,7 +60,7 @@
 
 - [从零开始实现一个依赖注入框架](https://github.com/Wscats/dependency-injection/blob/master/README.CN.md)
 
-这里只收录了我最近写的一些文章，更多详情可以看我的 [掘金](https://juejin.im/user/584c7f44ac502e0069275cd7)，[思否](https://segmentfault.com/u/enoy) 和 [CSDN](https://blog.csdn.net/qq_27080247) 的归档文章。
+这里只收录了我最近写的一些文章，更多详情可以看我的 [掘金](https://juejin.im/user/584c7f44ac502e0069275cd7)，[思否](https://segmentfault.com/u/wscats) 和 [CSDN](https://blog.csdn.net/qq_27080247) 的归档文章。
 
 # 案例
 

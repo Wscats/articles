@@ -56,7 +56,9 @@
 
 - [CSS的各种布局](https://github.com/Wscats/layout-demo)
 
-- [深入浅出 Jest 框架的实现原理](https://github.com/Wscats/jest-tutorial)
+- [深入浅出Jest框架的实现原理](https://github.com/Wscats/jest-tutorial)
+
+- [从零开始实现一个依赖注入框架](https://github.com/Wscats/dependency-injection/blob/master/README.CN.md)
 
 这里只收录了我最近写的一些文章，更多详情可以看我的 [掘金](https://juejin.im/user/584c7f44ac502e0069275cd7)，[思否](https://segmentfault.com/u/enoy) 和 [CSDN](https://blog.csdn.net/qq_27080247) 的归档文章。
 
@@ -76,7 +78,7 @@
 
 - [使用PHP的CodeIgnitier框架编写新闻客户端](https://github.com/Wscats/cms)
 
-- [极大提高国人开发效率超实用的 VSCode 插件](https://juejin.cn/post/6901454172411920392)
+- [极大提高国人开发效率超实用的VSCode插件](https://juejin.cn/post/6901454172411920392)
 
 # 交流
 

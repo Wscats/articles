@@ -6,6 +6,7 @@
 </p>
 
 每天坚持学习和分享直到我停止呼吸，大家来一起陪我共同见证吧。
+
 # 笔记
 
 - [Vue学习笔记](https://github.com/Wscats/vue-tutorial) 
@@ -38,6 +39,8 @@
 
 - [🎹用键盘8个键演奏一首蒲公英的约定送给自己或月亮代表我的心送给她](https://github.com/Wscats/piano)
 
+- [📊从零开始使用华为鸿蒙OpenHarmony开发游戏和表格渲染引擎](https://github.com/Wscats/openharmony-sheet)
+
 - [前端程序员经常忽视的一个JavaScript面试题](https://github.com/Wscats/articles/issues/85)
 
 - [我如何用前端技术得到XXOO网站的VIP](https://github.com/Wscats/articles/issues/62)
@@ -60,6 +63,11 @@
 
 - [从零开始实现一个依赖注入框架](https://github.com/Wscats/dependency-injection/blob/master/README.CN.md)
 
+- [大型前端项目如何实现UI可配置化](https://github.com/Wscats/CV/issues/36)
+
+- [腾讯文档给VSCode贡献的400多行核心代码都干了什么](https://github.com/Wscats/CV/issues/37)
+
+
 这里只收录了我最近写的一些文章，更多详情可以看我的 [掘金](https://juejin.im/user/584c7f44ac502e0069275cd7)，[思否](https://segmentfault.com/u/wscats) 和 [CSDN](https://blog.csdn.net/qq_27080247) 的归档文章。
 
 # 案例
@@ -79,6 +87,36 @@
 - [使用PHP的CodeIgnitier框架编写新闻客户端](https://github.com/Wscats/cms)
 
 - [极大提高国人开发效率超实用的VSCode插件](https://juejin.cn/post/6901454172411920392)
+
+# 面试
+
+- [超硬核Web前端学霸笔记，学完就去找工作！](https://segmentfault.com/a/1190000040478093)
+
+- [36个工作中常用的JavaScript函数片段](https://github.com/Wscats/CV/issues/32)
+
+- [给自己点时间再记记这200条Git命令](https://github.com/Wscats/CV/issues/31)
+
+- [55个提高你CSS开发效率的必备片段](https://github.com/Wscats/CV/issues/29)
+
+- [66道前端算法面试题附思路分析助你查漏补缺](https://segmentfault.com/a/1190000040797373)
+
+- [华为鸿蒙HarmonyOS开发资料全面汇总](https://github.com/Wscats/awesome-harmony)
+
+- [174道JavaScript面试题，助你查漏补缺](https://segmentfault.com/a/1190000040444611)
+
+- [104道CSS面试题，助你查漏补缺](https://segmentfault.com/a/1190000040247622)
+
+- [12道MySQL常见的面试题](https://segmentfault.com/a/1190000022636122)
+
+- [一些常见必备的MySQL知识](https://segmentfault.com/a/1190000022468956)
+
+- [14道关于计算机网络的面试题，助你查漏补缺](https://segmentfault.com/a/1190000022350860)
+
+- [前端面试必备之十大经典排序算法](https://segmentfault.com/a/1190000010413296)
+
+- [30个极大提高开发效率的超级实用VSCode插件](https://github.com/Wscats/CV/issues/34)
+
+- [JavaScript小奥秘之如何提高扩展运算符的性能](https://segmentfault.com/a/1190000020309746)
 
 # 交流
 

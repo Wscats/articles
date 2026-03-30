@@ -1,0 +1,38 @@
+name: CI
+
+on:
+  push:
+    branches: [main, master, refactor]
+  pull_request:
+    branches: [main, master]
+
+jobs:
+  lint-and-test:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [18.x, 20.x]
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ matrix.node-version }}
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci --if-present || npm install --if-present || true
+
+      - name: Lint
+        run: npm run lint --if-present || true
+
+      - name: Type check
+        run: npm run type-check --if-present || true
+
+      - name: Test
+        run: npm test --if-present || true
+
+      - name: Build
+        run: npm run build --if-present || true

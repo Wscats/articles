@@ -2,17 +2,19 @@ name: CI
 
 on:
   push:
-    branches: [main, master, refactor, refactor-claude-opus]
+    branches: [main, master, refactor-claude-opus]
   pull_request:
     branches: [main, master]
 
+permissions:
+  contents: read
+
 jobs:
-  lint-and-test:
+  ci:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        node-version: [18.x, 20.x]
-
+        node-version: [18.x, 20.x, 22.x]
     steps:
       - uses: actions/checkout@v4
 

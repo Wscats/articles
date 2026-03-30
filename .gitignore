@@ -10,6 +10,7 @@ out/
 .next/
 .nuxt/
 .vuepress/dist
+*.tsbuildinfo
 
 # Cache
 .cache/
@@ -31,16 +32,19 @@ pnpm-debug.log*
 # OS
 .DS_Store
 Thumbs.db
+ehthumbs.db
 
 # IDE
 .vscode/settings.json
 .idea/
 *.swp
 *.swo
-
-# TypeScript
-*.tsbuildinfo
+*~
 
 # Coverage
 coverage/
 .nyc_output/
+
+# Temporary
+tmp/
+temp/
